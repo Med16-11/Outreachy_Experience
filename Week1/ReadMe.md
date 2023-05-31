@@ -3,3 +3,6 @@
 
 ## Day 2
 #### A formal chat happend in Outreachy Zulip chat, where all the interns have shared there experinece and the topic of the discussion was- how to effectively work remotely. It was nice listing to other interns and mentors experiences.
+
+## Day 3
+#### Recived invitation from my mentor to join the organization on GitHub.
