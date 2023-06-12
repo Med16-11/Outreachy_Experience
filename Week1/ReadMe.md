@@ -6,3 +6,6 @@
 
 ## Day 3
 #### Recived invitation from my mentor to join the organization on GitHub.
+
+## Blog 1
+https://medhavi.hashnode.dev/outreachy-introduction-week-1-blog?ref=twitter-share
